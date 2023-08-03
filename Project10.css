@@ -1,0 +1,107 @@
+main{
+    height: 675px;
+    width: 100%;
+    border: 1px solid;
+    background-image: url(./googlrbackgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+    font-size: x-large;
+}
+#head{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+#A{
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+#B{
+    height: 100px;
+    width: 540px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+#C{
+    width: 520px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 30px;
+    margin: 0 auto;
+    background-color: white;
+}
+#D{  
+    display: flex;  
+    justify-content: center; 
+}
+#E{
+    margin: 0 auto;
+    width: 400px;
+    display: flex;  
+    justify-content: center; 
+    color: white;
+    font-size: medium;
+    justify-content:space-evenly;
+}
+i{
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-right: 30px;
+}
+input{
+   width: 350px;
+   border: none;
+   outline: none;
+}
+.box{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 10px; 
+    margin: 25px;             
+    
+}
+#plus{
+    font-size: 30px;
+    margin-left: 03px;
+    margin-top: 0px;
+    color: black;
+}
+.img{
+    height: 30px;
+    width: 30px;
+}
+p{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+.a{
+    color: white;
+    text-decoration: none;
+}
+.a2{
+    color: black;
+}
+#a{
+    color: white;
+}
+#a1{ 
+    height: 30px;    
+    width: 30px;   
+    border-radius: 50%;
+    background-color: orange;
+    text-align: center;
+    margin-right: 20px;
+}
